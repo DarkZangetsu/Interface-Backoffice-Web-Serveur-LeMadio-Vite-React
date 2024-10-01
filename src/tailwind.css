@@ -1,0 +1,14 @@
+/* Taille du logo */
+.w-28-5 {
+    width: auto;
+    /* Equivalent to 28.5px */
+}
+
+.h-28-5 {
+    height: 11rem;
+    /* Equivalent to 28.5px */
+}
+
+.h-icon {
+    height: 130px;
+}
